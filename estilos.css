@@ -1,0 +1,22 @@
+body {background: grey; font-family: Comic Sans MS;
+    font-size:x-large;
+    
+  }
+  .menu{background-color:purple; 
+  }
+  .menu li{color:green; list-style:square;
+  }
+  
+  a{text-decoration: none; 
+  }
+  a:hover{text-decoration:underline; 
+  }
+  a{ color:#F8923E; 
+  }
+  .site-title,.site-subtitle{
+    text-align: center;
+    color:#1A6375
+  }
+  .site-subtitle{font-style:italic; 
+  }
+  
